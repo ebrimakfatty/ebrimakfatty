@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ebrima k Fatty</h1>
+<h1 align="center">Hi 👋, I'm Ebrima K Fatty
+
+A BSc Computer Science student at Fergusson College, 
+heading into my final year. Passionate about 
+data analysis and data science.</h1>
 <h3 align="center">Hardworking</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrimakfatty&label=Profile%20views&color=0e75b6&style=flat" alt="ebrimakfatty" /> </p>
