@@ -7,7 +7,7 @@ data analysis and data science.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebrimakfatty&label=Profile%20views&color=0e75b6&style=flat" alt="ebrimakfatty" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I have learned **Python**
 
 - 📫 How to reach me **fattyebrimak95@gmail.com**
 
